@@ -3,5 +3,6 @@ public class Test{
         System.out.println("Hai, ini baris kode pertama");
         System.out.println("Hello, ini baris kode kedua");
         System.out.println("User 2 manambahkan baris");
+        System.out.println("User 1 menambahkan baris");
     }
 }
